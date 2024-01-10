@@ -22,9 +22,10 @@ Install the required dependencies.
 
 pip install -r requirements.txt
 
-Run the Streamlit App
 
-`bash
+
+## Run the Streamlit App
+
 streamlit run streamlit_app.py
 
 Visit http://localhost:8501 in your web browser to access the employee salary prediction app.
