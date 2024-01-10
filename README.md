@@ -15,7 +15,7 @@ This Streamlit project predicts employee salaries based on specific parameters, 
 
 
 ## Navigate to the project directory: 
-`bash
+```bash
 cd employee_salary_prediction
 
 Install the required dependencies.
@@ -28,3 +28,5 @@ Run the Streamlit App
 streamlit run streamlit_app.py
 
 Visit http://localhost:8501 in your web browser to access the employee salary prediction app.
+
+
